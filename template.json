@@ -1,0 +1,15 @@
+{
+  "contact": "PlaceEU",
+  "templates": [
+    {
+      "name": "EuropeMap",
+      "sources": [
+        "https://raw.githubusercontent.com/Malormar/PlaceEU/main/Europe.png"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
