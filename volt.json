@@ -4,7 +4,7 @@
     {
       "name": "EuropeMap",
       "sources": [
-        "https://raw.githubusercontent.com/Malormar/PlaceEU/main/Europe.png"
+        "https://raw.githubusercontent.com/Malormar/PlaceEU/main/volt.png"
       ],
       "x": 0,
       "y": 0
@@ -12,8 +12,8 @@
   ],
   "whitelist": [
     {
-      "name": "Volt",
-      "url": "https://raw.githubusercontent.com/Malormar/placeEU/main/volt.json"
+      "name": "PlaceEU",
+      "url": "https://raw.githubusercontent.com/Malormar/placeEU/main/template.json"
     }
   ],
   "blacklist": []
