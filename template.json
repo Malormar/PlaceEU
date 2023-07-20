@@ -13,7 +13,7 @@
   "whitelist": [
     {
       "name": "Volt",
-      "url": "https://raw.githubusercontent.com/Malormar/placeEU/main/volt.json"
+      "url": "https://raw.githubusercontent.com/Malormar/PlaceEU/main/volt.json"
     }
   ],
   "blacklist": []
