@@ -10,11 +10,6 @@
       "y": 0
     }
   ],
-  "whitelist": [
-    {
-      "name": "Volt",
-      "url": "https://raw.githubusercontent.com/Malormar/PlaceEU/main/volt.json"
-    }
-  ],
+  "whitelist": [],
   "blacklist": []
 }
