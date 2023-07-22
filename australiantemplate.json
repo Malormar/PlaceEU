@@ -4,7 +4,7 @@
     {
       "name": "EuropeMap",
       "sources": [
-        "https://raw.githubusercontent.com/Malormar/PlaceEU/main/eu.png"
+        "https://raw.githubusercontent.com/Malormar/PlaceEU/main/australia.png"
       ],
       "x": 0,
       "y": 0
@@ -13,7 +13,7 @@
   "whitelist": [
     {
       "name": "PlaceEU",
-      "url": "https://raw.githubusercontent.com/Malormar/PlaceEU/main/australiantemplate.json"
+      "url": "https://raw.githubusercontent.com/Malormar/PlaceEU/main/template.json"
     }],
   "blacklist": []
 }
