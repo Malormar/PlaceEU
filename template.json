@@ -12,8 +12,8 @@
   ],
   "whitelist": [
     {
-      "name": "PlaceEU",
-      "url": "https://raw.githubusercontent.com/Malormar/PlaceEU/main/australiantemplate.json"
+      "name": "America",
+      "url": "https://afip.us/place/overlay"
     }],
   "blacklist": []
 }
